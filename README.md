@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/AllanCFE">
   <img height="180em" src="https://github-readme-stats-allancfe.vercel.app/api?username=AllanCFE&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-allancfe.vercel.app/api/top-langs/?username=AllanCFE&layout=compact&langs_count=16&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-allancfe.vercel.app/api/top-langs/?username=AllanCFE&layout=compact&theme=dark&count_private=true&size_weight=0.5&count_weight=0.5"/>
  </div>
 
 <div style="display: inline_block"><br>
